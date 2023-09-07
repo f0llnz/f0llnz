@@ -1,4 +1,4 @@
-![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-66d973ba93.gif)
+![MasterHead](https://gifdb.com/images/high/cowboy-bebop-spike-eating-noodles-3jpcdp1ym2h2wbno.gif)
 <h1 align="center">Hi 👋, I'm Buba</h1>
 <h3 align="center">I'm like a web developer crossed with a detective. Give me your website puzzles, and I'll solve them faster than Sherlock Holmes with a keyboard! 🔍💻🕵️‍♂️</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
